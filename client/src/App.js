@@ -17,6 +17,7 @@ import CardNumber from './components/CardNumber';
 import CheckIcon from './components/icons/CheckIcon';
 // Credit: https://www.creditkarma.com/credit-cards/i/find-credit-card-cvv-number
 import CvvHelp from './components/images/cvv_help.png';
+// Credit: https://thevoiceofnick.fandom.com/wiki/Gaffer_Gamgee_the_Gradient
 import background from './components/images/background_wave.jpg';
 
 const App = () => {
